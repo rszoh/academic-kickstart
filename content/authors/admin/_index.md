@@ -74,6 +74,4 @@ user_groups:
 Roger S Zoh is an associate professor of Biostatistics in the department of Epidemiology and Biostatistics at Indiana University in Bloomington, IN. His research interests include development of Bayesian methodolgy for the analysis of Genomics, diet, and physical activity data.   
 
 
-#Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile #computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-#organizing robots, and mobile sensor networks.
-
 
