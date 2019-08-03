@@ -15,7 +15,7 @@ role: Associate Professor of Biostatistics
 # Organizations/Affiliations
 organizations:
 - name: Indiana University
-  url: ""
+  url: "http://www.publichealth.indiana.edu/departments/epidemiology/index.shtml"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Bayesian approaches related to genomics, Structural Equations, BioInformatics.
