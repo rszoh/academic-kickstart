@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Roger S Zoh
+name: Roger S. Zoh
 
 # Username (this should match the folder name)
 authors:
@@ -14,16 +14,16 @@ role: Associate Professor of Biostatistics
 
 # Organizations/Affiliations
 organizations:
-- name: Indiana University
+- name: Indiana University in Bloomington
   url: "http://www.publichealth.indiana.edu/departments/epidemiology/index.shtml"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Bayesian approaches for analysis of genomics data, Structural Equations, BioInformatics.
+bio: My research interests include Bayesian approaches for analysis of Genomics data, Structural Equations, BioInformatics.
 
 interests:
 - Bayesian Statistics
 - Genomics
-- Physical activity and Chronics Diseases
+- Diet and physical activities related to Chronics Diseases
 
 education:
   courses:
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "rszoh at iu.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
