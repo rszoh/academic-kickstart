@@ -71,7 +71,7 @@ user_groups:
 ---
 
 
-Roger S Zoh is an associate professor of Biostatistics in the department of Epidemiology and Biostatistics at Indiana University in Bloomington, IN. His research interests include development of Bayesian methodolgy for the analysis of Genomics, diet, and physical activity data.   
+Roger S. Zoh is an associate professor of Biostatistics in the School of public health in the department of Epi/Biostat at Indiana University, Bloomington IN. His research interests include development of Bayesian methodolgy for the analysis of Genomics, diet, and physical activity data.   
 
 
 
