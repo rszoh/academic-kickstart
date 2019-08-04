@@ -27,7 +27,7 @@ subtitle = ""
   description = "20%"
   
   [[feature]]
-  icon = "code"
+  icon = "laptop-code"
   icon_pack = "fab"
   name = "Julia"
   description = "40%"
