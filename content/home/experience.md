@@ -13,6 +13,12 @@ subtitle = ""
 date_format = "Jan 2006"
 
 # Experiences.
+# Responsibilities include:
+  
+  # * Analysing
+  # * Modelling
+  # * Deploying
+  # """
 #   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
@@ -25,12 +31,7 @@ date_format = "Jan 2006"
   date_start = "2019-01-01"
   date_end = ""
   description = """
-  #Responsibilities include:
   
-  #* Analysing
-  #* Modelling
-  #* Deploying
-  """
 
 [[experience]]
   title = "Asistant Professor"
@@ -39,6 +40,6 @@ date_format = "Jan 2006"
   location = "College Station, TX US"
   date_start = "2015-07-01"
   date_end = "2018-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+ # description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
