@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   location = "Indiana "
   date_start = "2019-01-01"
   date_end = ""
-  description = """
+  description = """"""
   
 
 [[experience]]
@@ -40,6 +40,6 @@ date_format = "Jan 2006"
   location = "College Station, TX US"
   date_start = "2015-07-01"
   date_end = "2018-12-31"
-  description = """ """
+  description = """"""
 
 +++
