@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   
 
 [[experience]]
-  title = "Asistant Professor"
+  title = "Assistant Professor"
   company = "Texas A&M University"
   company_url = ""
   location = "College Station, TX US"

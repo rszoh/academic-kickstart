@@ -18,7 +18,7 @@ organizations:
   url: "http://www.publichealth.indiana.edu/departments/epidemiology/index.shtml"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Bayesian approaches for analysis of Genomics data, Structural Equations, BioInformatics.
+bio: My research interests include Bayesian approaches for analysis of Genomics data, Structural Equations, Bio-Informatics.
 
 interests:
 - Bayesian Statistics
@@ -71,7 +71,7 @@ user_groups:
 ---
 
 
-Roger S. Zoh is an associate professor of Biostatistics in the School of public health in the department of Epi/Biostat at Indiana University, Bloomington IN. His research interests include development of Bayesian methodolgy for the analysis of Genomics, diet, and physical activity data.   
+I am currently an associate professor of Biostatistics in the department of Epidemiology and Biostatistics - School of public health  Indiana University, Bloomington IN. My research interests include development of Bayesian methodolgy for the analysis of Genomics, diet, and physical activity data.   
 
 
 
